@@ -8,7 +8,7 @@ A list of colorschemes for the CUA-intuitive and fast [micro](https://github.com
 * [Monokai Dark](https://github.com/Theodus/micro-monokai-dark) : Ctrl-E `plugin install monokai-dark`
 ![Monokai Dark example](https://cloud.githubusercontent.com/assets/9407624/21583372/df521d5c-d04b-11e6-8134-4e5f692bbf27.png)
 
-_Simple files: to installl, download into the `colorschemes` directory:_
+**Simple files: to install, download into the `colorschemes` directory:**
 
 * [Solarized-light](https://github.com/samdmarshall/dotfiles/raw/7e8447b2561f8e0f02e7e923affffc5ec40e1abf/micro/colorschemes/solarized-light.micro)
 * [Felipe Web](https://github.com/felipeweb/.micro/raw/e736ed7b20aec5f2ad1bd171affd4c703a5ae6fd/colorschemes/felipeweb.micro)
