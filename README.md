@@ -5,6 +5,9 @@ A list of colorschemes for the CUA-intuitive and fast [micro](https://github.com
 * [Micro Gotham](https://github.com/novln/micro-gotham-colors) : Ctrl-E `plugin install gotham-colors`
 ![Gotham example](https://raw.githubusercontent.com/november-eleven/micro-gotham-colors/master/gotham-editor.png)
 
+* [Monokai Dark](https://github.com/Theodus/micro-monokai-dark) : Ctrl-E `plugin install monokai-dark`
+![Monokai Dark example](https://cloud.githubusercontent.com/assets/9407624/21583372/df521d5c-d04b-11e6-8134-4e5f692bbf27.png)
+
 _Simple files: to installl, download into the `colorschemes` directory:_
 
 * [Solarized-light](https://github.com/samdmarshall/dotfiles/raw/7e8447b2561f8e0f02e7e923affffc5ec40e1abf/micro/colorschemes/solarized-light.micro)
@@ -14,8 +17,6 @@ _Simple files: to installl, download into the `colorschemes` directory:_
 * [Atom-Dark-Slon](https://github.com/harryzhurov/settings/blob/8205571dfb6b3136c5d44f31f36dafbc75a2bde2/nix/home/config/micro/colorschemes/atom-dark-slon.micro)
 
 <!-- * [Flamepoint-tc](https://github.com/zyedidia/micro/raw/c29e58e3d4c0d816e961b68af12f21d0570c5806/runtime/colorschemes/flamepoint-tc.micro) -->
-
-<!-- * [Monokai Dark](https://github.com/Theodus/micro-monokai-dark) : Ctrl-E `plugin install monokai-dark` -->
 
 ## Color scheme editor
 
